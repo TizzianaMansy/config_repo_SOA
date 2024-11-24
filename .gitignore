@@ -1,0 +1,5 @@
+.metadata/
+# Ignore IDE, build files, etc.
+.idea/
+target/
+*.class
